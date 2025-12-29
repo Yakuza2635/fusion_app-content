@@ -1,0 +1,36 @@
+[
+  {
+    "id": "popular-movies",
+    "name": "Popular Movies",
+    "category": "Lists",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/lists/list-popular-movies.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": "top-rated-movies",
+    "name": "Top Rated Movies",
+    "category": "Lists",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion_app-content/main/folders/posters/lists/list-top-rated-movies.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  }
+]
