@@ -1,8 +1,14 @@
 # Fusion App Content
 
+[![GitHub](https://img.shields.io/badge/GitHub-Yakuza2635-181717?style=flat&logo=github)](https://github.com/Yakuza2635)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Fusion](https://img.shields.io/badge/For-Fusion_App-orange)](https://apps.apple.com/app/fusion-media-library-manager/id6741428023)
+
 A curated collection of custom posters and resource filters for the [Fusion](https://apps.apple.com/app/fusion-media-library-manager/id6741428023) media library manager.
 
 ![Preview](preview.png)
+
+---
 
 ## 📥 Quick Install
 
@@ -51,18 +57,18 @@ A curated collection of custom posters and resource filters for the [Fusion](htt
 | 🌈 Dynamic Range | 5 | Dolby Vision, HDR10+, HDR10, HDR, SDR |
 | 🔊 Audio | 8 | Dolby Atmos, TrueHD, DTS-X, DTS-HD MA, DTS-HD, DD+, DTS, DD |
 | 🔉 Audio Channels | 3 | 7.1, 6.1, 5.1 |
-| 🌐 Languages | 36 | English, Spanish, French, German, Japanese, Portuguese (Brazil) 🇧🇷, Portuguese (Portugal) 🇵🇹, and 29 more |
+| 🌐 Languages | 36 | English, Spanish, French, German, Japanese, Portuguese (BR/PT), and more |
 
 ---
 
 ## 📸 Screenshots
 
 | Animation Studios | Collections | Genres |
-|-------------------|-------------|--------|
+|:-----------------:|:-----------:|:------:|
 | ![Animation](screenshots/animation.png) | ![Collections](screenshots/collections.png) | ![Genres](screenshots/genres.png) |
 
 | Studios | Streaming Services | Releases |
-|---------|-------------------|----------|
+|:-------:|:------------------:|:--------:|
 | ![Studios](screenshots/studios.png) | ![Streaming](screenshots/streaming.png) | ![Releases](screenshots/releases.png) |
 
 ---
@@ -74,42 +80,19 @@ fusion_app-content/
 ├── folders/
 │   └── posters/
 │       ├── animation/
-│       │   └── posters-animation.json
 │       ├── collections/
-│       │   └── posters-collections.json
 │       ├── genres/
-│       │   └── posters-genres.json
 │       ├── lists/
-│       │   └── posters-lists.json
 │       ├── releases/
-│       │   └── posters-releases.json
 │       ├── streaming/
-│       │   └── posters-streaming.json
 │       └── studios/
-│           └── posters-studios.json
-│
 ├── resource-filters/
 │   └── filters/
-│       └── filters.json
-│
 ├── screenshots/
-├── README.md
-└── LICENSE
+├── CONTRIBUTING.md
+├── LICENSE
+└── README.md
 ```
-
----
-
-## 🙏 Credits
-
-- **[iFusion Gallery](https://ifusion.netlify.app/)** - Filter posters and original configurations
-- **[Vidhin05/Releases-Regex](https://github.com/Vidhin05/Releases-Regex)** - Anime release group quality tier regex patterns
-- **[Fusion App](https://discord.gg/wrMgang5)** - The amazing media library manager
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -118,3 +101,27 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contributions are welcome! Feel free to submit a Pull Request or open an Issue.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## 🙏 Credits
+
+- [iFusion Gallery](https://ifusion.netlify.app/) — Filter posters and original configurations
+- [Vidhin05/Releases-Regex](https://github.com/Vidhin05/Releases-Regex) — Anime release group quality tier regex patterns
+- [Fusion App](https://discord.gg/wrMgang5) — The amazing media library manager
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+
+**Made with ❤️ by [Yakuza2635](https://github.com/Yakuza2635)**
+
+*Enhancing your Fusion media library experience*
+
+</div>
