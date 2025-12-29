@@ -103,7 +103,7 @@ fusion_app-content/
 
 - **[iFusion Gallery](https://ifusion.netlify.app/)** - Filter posters and original configurations
 - **[Vidhin05/Releases-Regex](https://github.com/Vidhin05/Releases-Regex)** - Anime release group quality tier regex patterns
-- **[Fusion App](https://apps.apple.com/app/fusion-media-library-manager/id6741428023)** - The amazing media library manager
+- **[Fusion App](https://discord.gg/wrMgang5)** - The amazing media library manager
 
 ---
 
