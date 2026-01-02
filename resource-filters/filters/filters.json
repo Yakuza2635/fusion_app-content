@@ -317,7 +317,7 @@
     {
       "id": "audio-ddplus",
       "name": "🔊 Dolby Digital+",
-      "pattern": "(?i:(d(?:olby)?[ .\\-_]?d(?:igital)?[ .\\-_]?(?:p(?:lus)?|\\+)(?:[ .\\-_]?(?:5[ .\\-_]?1|7[ .\\-_]?1))?)|e[ .\\-_]?ac[ .\\-_]?3)",
+      "pattern": "(?i)\\b(d(olby)?[ .\\-_]?d(igital)?[ .\\-_]?(p(lus)?|\\+)|ddp[ .\\-_]?[0-9]|ddp\\b|e[ .\\-_]?ac[ .\\-_]?3)",
       "type": "filter",
       "isEnabled": true,
       "tagStyle": "filled",
@@ -425,7 +425,7 @@
     {
       "id": "lang-german",
       "name": "🇩🇪 German",
-      "pattern": "(?i)\\b(?:ger(?:man)?|de|deu|deutsch)\\b",
+      "pattern": "(?i)\\b(?:ger(?:man)?|deu|deutsch)\\b",
       "type": "filter",
       "isEnabled": true,
       "tagStyle": "filled",
@@ -449,7 +449,7 @@
     {
       "id": "lang-portuguese-br",
       "name": "🇧🇷 Portuguese (Brazil)",
-      "pattern": "(?i)\\b(?:pt[-_]?br|por[-_]?br|bra(?:zil(?:ian)?)?|português[-_]?(?:brasil(?:eiro)?|br))\\b",
+      "pattern": "(?i)\\b(?:pt[-_]?br|por[-_]?br|bra(?:zil(?:ian)?)?|português[-_]?(?:brasil(?:eiro)?|br)|dublado)\\b",
       "type": "filter",
       "isEnabled": true,
       "tagStyle": "filled",
